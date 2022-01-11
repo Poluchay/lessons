@@ -1,9 +1,7 @@
 'use strict';
 
-const org = 'HowProgrammingWorks';
-
-//delete org; // error, можно удалить let 
-
+// const org = 'HowProgrammingWorks';
+// delete org; // error, можно удалить let
 const country = {
   name: 'Chile',
   ruler: 'Augusto Pinochet',
